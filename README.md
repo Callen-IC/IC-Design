@@ -1,13 +1,13 @@
 # IC-Design
 Analog &amp; Mixed-Signal IC Design Portfolio
-This repositary helps explore the basic analog design to mixed signal IC designs.
+This repository documents my journey studying analog and mixed-signal integrated circuit design, from fundamental device physics to advanced circuit architectures.
 
 # Topics
-- Basic Physics
-- Diode
-- BJT
-- MOSFET
-- op-amp
+- Basic Device Physics
+- Diodes
+- BJTs
+- MOSFETs
+- op-amps
 
 # Projects
 - Current mirrors
